@@ -1,0 +1,8 @@
+[package]
+name = "arrow"
+version = "0.1.0"
+authors = ["Joshua Howard <joshthoward@gmail.com>"]
+build = "build.rs"
+
+[build-dependencies]
+bindgen = "0.33.1"
